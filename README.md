@@ -42,3 +42,5 @@ php artisan config:cache
 ```
 php artisan cache:clear
 ```
+
+[LINK] :https://stackoverflow.com/questions/31543175/getting-a-500-internal-server-error-on-laravel-5-ubuntu-14-04
