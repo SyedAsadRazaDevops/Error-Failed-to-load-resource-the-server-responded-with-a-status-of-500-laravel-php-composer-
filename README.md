@@ -3,6 +3,8 @@ Getting a 500 Internal Server Error
 
 **solution #1:**
 
+>in my case i take the pull from the github and change then checkout to new branch,so the composer did npot install the new packeges in server. 
+
 Install the required packages by running the composer command from the the root of the project:
 ```
 sudo composer install
